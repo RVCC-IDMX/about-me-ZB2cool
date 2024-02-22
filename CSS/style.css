@@ -1,7 +1,7 @@
 body {
     font-family: 'Times New Roman', Times, serif;
     background-color: #EBE284;
-    color:#F0B495 ;
+    color:#bb4b13 ;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -14,8 +14,8 @@ header{
 }
 
 #hero, footer {
-    color: #C8B6EA;
-    border: 2px solid#4240EA;
+    color: #3c1688;
+    border: 10px solid#4240EA;
     background-color: #C8B6EA;
     text-align: center;
     padding: 10px;
