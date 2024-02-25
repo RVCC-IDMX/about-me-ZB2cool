@@ -53,3 +53,12 @@ header{
     text-align: center;
 }
 
+/*Litature*/
+#lit  {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+}
+#lit div {
+    padding: 2rem;
+    max-width: 40rem;
+    margin: 0 auto;
+}
