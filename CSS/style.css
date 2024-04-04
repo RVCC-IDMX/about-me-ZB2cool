@@ -15,7 +15,6 @@ header{
 
 /*Hero Section*/
 
-
 #hero, footer {
     color: #3c1688;
     border: 10px solid#4240EA;
@@ -53,7 +52,14 @@ header{
     text-align: center;
 }
 
+/*video*/
+
+#video{
+    height: auto; width: auto;
+}
+
 /*Litature*/
+
 #lit  {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
 }
